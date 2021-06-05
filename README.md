@@ -11,19 +11,22 @@ Similar to classical recommendation databases, MALib contains three table / file
 
 ## Data Format
 ### Lib_info.csv
-|Column 1|Column 2|
-|---|---|---|
-|Library Id|Library Name|
+
+Column 1|Column 2
+---|---|
+Library Id|Library Name
 
 ### Apk_info.csv
-|Column 1|Column 2|
-|---|---|---|
-|App Id|Apk filename|
+
+Column 1|Column 2
+---|---|
+App Id|Apk filename
 
 ### Relation.csv
-|Column 1|Column 2|
-|---|---|
-|App Id|Library Id|
+
+Column 1|Column 2
+---|---|
+App Id|Library Id
 
 Relations is always 1 as we only include the positive invoking relation.
 
