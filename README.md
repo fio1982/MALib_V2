@@ -32,7 +32,7 @@ Relations is always 1 as we only include the positive invoking relation.
 
 For ease of use, we also provides two files to that solely presenting the app-library relationship, i.e., the TPL usage records, similar to that in the recommendation research field. In this two files, we removed those mobile apps using very limited TPLs and those TPLs that rarely being used, and only keep mobile apps using at least 10 TPLs, and TPLs being used by at least 6 mobile apps.
 
-##Citations:
+## Citations
 
 It would be very much appreciated if you cite the following papers:
 
