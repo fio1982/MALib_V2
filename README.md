@@ -12,12 +12,12 @@ Please feel free to contact us if you need the full version of our dataset.
 
 It would be very much appreciated if you cite the following papers:
 
-'''
+```
 @article{he2020diversified,
   title={Diversified third-party library prediction for mobile app development},
   author={He, Qiang and Li, Bo and Chen, Feifei and Grundy, John and Xia, Xin and Yang, Yun},
   journal={IEEE Transactions on Software Engineering},
   year={2020},
   publisher={IEEE}
-}
-'''
+  }
+```
