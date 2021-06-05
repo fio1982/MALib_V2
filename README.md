@@ -13,11 +13,9 @@ Please feel free to contact us if you need the full version of our dataset.
 It would be very much appreciated if you cite the following papers:
 
 ```
-@article{he2020diversified,
-  title={Diversified third-party library prediction for mobile app development},
-  author={He, Qiang and Li, Bo and Chen, Feifei and Grundy, John and Xia, Xin and Yang, Yun},
-  journal={IEEE Transactions on Software Engineering},
-  year={2020},
-  publisher={IEEE}
-  }
+He, Q., Li, B., Chen, F., Grundy, J., Xia, X. and Yang, Y., 2020. Diversified third-party library prediction for mobile app development. IEEE Transactions on Software Engineering.
+```
+
+```
+Li, B., He, Q., Chen, F.,  Xia, X., Li, L., Grundy, J.,and Yang, Y., 2021. Embedding App-Library Graph for Neural Third Party Library Recommendation. In proceddings of FSE 2021. DOI:[10.1145/3468264.3468552](10.1145/3468264.3468552)
 ```
