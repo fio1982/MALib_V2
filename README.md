@@ -4,7 +4,7 @@ MALib dataset Version 2.0 for third-party library (TPL) recommendation in mobile
 
 [You may like to find the original MALib dataset here.](https://github.com/fio1982/MALib) This dataset contains 10000+ apps downloaded from Google Play and 160,000 TPL usage records extract from those apps via LibRadar.
 
-In Version 2, we have extended the mobile apps, and have manually inspected all the TPLs when extracting TPL usage records. Note that, LibRadar finds out the TPL usage through pattern comparison, therefore, the inspection can further improved the accuracy of our dataset.
+In Version 2, we have extended the mobile apps, and have manually inspected all the TPLs when extracting TPL usage records. Note that, LibRadar finds out the TPL usage through pattern comparison, therefore, the inspection can further improved the accuracy of our dataset. [This dataset can also be found here.](https://github.com/malibdata/MALib-Dataset)
 
 ## Content
 Similar to classical recommendation databases, MALib contains three table / files, namely Apks.csv, Libs.csv and Relation.csv respectively.
